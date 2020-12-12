@@ -1,0 +1,42 @@
+.body{
+
+ height: auto;
+ width: 100%
+}
+body
+{
+  height: auto;
+ 
+}
+.one{
+  height: 50px;
+  width: 50px;
+  background: #f13a11;
+  border-radius: 100%;
+ 
+}
+.two
+{
+
+  left: 9px;
+  top: 15px;
+}
+
+.form-control{
+  width:50%;
+  margin: auto;
+}
+
+.btn-block{
+  width: 50%;
+  margin: auto;
+}
+
+.tareq:hover{
+  text-decoration: underline;
+  color: black;
+}
+#schedule{
+  background-color: #000; 
+  color: white; 
+}
